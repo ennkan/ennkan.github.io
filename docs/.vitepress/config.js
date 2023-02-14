@@ -1,6 +1,7 @@
 export default {
     title: '円環 Ennkan',
     description: '',
+    lastUpdated: true,
     cleanUrls: true,
 
     themeConfig: {
@@ -22,6 +23,7 @@ export default {
             items: [
               { text: 'Index', link: '/blog/' },
               { text: 'はじめて', link: '/blog/2023-02-12-hajimete' },
+              { text: 'Valentine\'s Day', link: '/blog/2023-02-14-valentine' },
             ]
           }
         ],
