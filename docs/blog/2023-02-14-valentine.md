@@ -1,6 +1,6 @@
 # Valentine's Day
 
-> <ruby>ファニー<rt>Funny</rt>・ヴァレンタイン<rt>Valentine</rt></ruby>
+> <ruby>ファニー<rt>Funny</rt>・<rt></rt>ヴァレンタイン<rt>Valentine</rt></ruby>
 
 ## 日本語
 
